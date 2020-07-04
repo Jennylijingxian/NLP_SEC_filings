@@ -1,0 +1,18 @@
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>6
+<FILENAME>bfb-ex23_2019430x10kapril.htm
+<DESCRIPTION>EXHIBIT 23
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Document created using Wdesk 1 -->
+		<!-- Copyright 2019 Workiva -->
+		<title>Exhibit</title>
+	</head>
+	<body style="font-family:Times New Roman;font-size:10pt;">
+<div><a name="sF83C4777A5D7572687C03895A3B8CC90"></a></div><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><div><br></div><div style="line-height:120%;text-align:right;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Exhibit 23</font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Consent of Independent Registered Public Accounting Firm</font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:justify;text-indent:30px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">We hereby consent to the incorporation by reference in the Registration Statements on Form S-8 (Nos.  333-38649, 333-74567, 333-89294, 333-117630, 333-169564, and 333-190122) of Brown-Forman Corporation of our report dated June&#160;13, 2019 relating to the financial statements and financial statement schedule and the effectiveness of internal control over financial reporting, which appears in this Form 10-K.</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">/s/ PricewaterhouseCoopers LLP</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Louisville, Kentucky</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">June 13, 2019</font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div><br></div><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div>	</body>
+</html>
+</TEXT>
+</DOCUMENT>
